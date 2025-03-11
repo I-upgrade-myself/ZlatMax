@@ -1,28 +1,28 @@
 Cutting Edge Tech Stack:
 
-Next.js 14.2: Learn the latest features and best practices of Next.js.
+Next.js 14.2
 
-Stripe Elements: Master secure and reliable payment processing with Stripe.
+Stripe Elements
 
-Tailwind CSS: A utility-first CSS framework for rapid UI development.
+Tailwind CSS
 
-shadcn: Beautifully designed components for your apps.
+shadcn
 
-Next Auth V5: Implement OAuth2, Email, Password, 2FA, password resets, and more.
+Next Auth V5
 
-Drizzle ORM: High-speed queries and mutations with full type safety.
+Drizzle ORM
 
-Algolia Search: Utilize powerful and fast search capabilities.
+Algolia Search
 
-Framer Motion: Create smooth and responsive animations.
+Framer Motion
 
-zustand: Small, fast, and scalable state management library.
+zustand
 
-Resend: Effortlessly manage transactional emails.
+Resend
 
-React-Hook-Form: Handle form validation and submission efficiently.
+React-Hook-Form
 
-Postgres with NeonDB: Serverless PostgreSQL for scalable and efficient database management.
+Postgres with NeonDB
 
 --------------------------------------------
 In this project, the fundamentals of Next.js were explored, including environment setup, project structure, routing, layouts, as well as more advanced methods such as route groups and parallel routes.
